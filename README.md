@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **ferid004/ferid004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ###
 
 ###
-"Hello! My name is Ferid Akhadir and I am a second-year student studying IT at Azerbaijan Technical University. I am learning Django and Python languages and aspire to become a full-stack developer. Currently, I am looking for a job in this field. You can find more information about my experience, skills, and interests by visiting the links on my profile."
+"Salam github profilimi hazılıyıram tarix 22.06.2023 kurla elədiyim bəzi şeyləri burada yayınlayacam."
