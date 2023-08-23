@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## Hərgün girməliyəm aktiv olmalıyam 
-# fv demo **[fv-demo]**(https://fr-demo.netlify.app/)
-
+# fv demo (https://fr-demo.netlify.app/)
+[g](https://fr-demo.netlify.app/)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
