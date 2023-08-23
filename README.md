@@ -1,6 +1,8 @@
 ### Hi there 👋
 ## Hərgün girməliyəm aktiv olmalıyam 
-# [fr-demo](https://fr-demo.netlify.app/)
+### yaratdığım saytlar
+#### [codewether-bootstrap](https://codewether-bootstrap.netlify.app/)
+#### [codewether-fiverr](https://codewether-fiverr.netlify.app/)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
