@@ -1,6 +1,7 @@
 ### Hi there 👋
 ## Hərgün girməliyəm aktiv olmalıyam 
 ### yaratdığım saytlar
+#### [cv](https://ferid-cv.netlify.app/)
 #### [codewether-bootstrap](https://codewether-bootstrap.netlify.app/)
 #### [codewether-fiverr](https://codewether-fiverr.netlify.app/)
 - 🔭 I’m currently working on ...
