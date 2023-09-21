@@ -16,4 +16,4 @@
 ###
 
 ###
-"Salam github profilimi hazılıyıram tarix 22.06.2023 kurla elədiyim bəzi şeyləri burada yayınlayacam."
+"Salam github profilimi hazılıyıram tarix 22.06.2023."
