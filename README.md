@@ -1,18 +1,17 @@
-# Merhaba, Ben [Adınız] 👋
+# Salam, Mən Fərid 👋
 
-## Hakkımda
-- 📚 Şu anda [eğitim seviyesi veya okul]
-- 💻 Full Stack Developer (Frontend ağırlıklı)
-- 🛠️ Kullandığım Teknolojiler: 
+## Haqqımda
+- 📚 Hal-hazırda Azərbaycan Texniki Universitetində İnformasiya Texnologiyaları ixtisasında təhsil alıram 
+- 💻 Full Stack Developer (Frontend üstünlük)
+- 🛠️ İstifadə etdiyim Texnologiyalar: 
   - Frontend: HTML, CSS, SCSS, JavaScript, React, Next.js
   - Backend: Node.js, Express.js, MongoDB
-- 🌱 Şu anda öğreniyorum: [Öğrendiğiniz yeni teknolojiler veya konular]
-- 💼 Çalıştığım yer: [Şirket adı veya freelancer olarak çalışıyorsanız belirtin]
-- 📫 Bana ulaşın: [E-posta adresiniz]
+- 🌱 Hal-hazırda öyrənirəm: Node.js 
+- 📫 Mənimlə əlaqə: feridcodee@gmail.com
 
 ![Banner](https://example.com/banner.jpg)
 
-### Kullandığım Teknolojiler
+### İstifadə Etdiyim Texnologiyalar
 
 #### Frontend
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
@@ -27,14 +26,14 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
-### GitHub İstatistiklerim
-![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=kullaniciadiniz&show_icons=true&theme=dark)
+### GitHub Statistikalərim
+![GitHub Statistikalərim](https://github-readme-stats.vercel.app/api?username=kullaniciadiniz&show_icons=true&theme=dark)
 
-### Öne Çıkan Projelerim
-- [Proje 1](https://github.com/kullaniciadiniz/proje1): Proje açıklaması.
-- [Proje 2](https://github.com/kullaniciadiniz/proje2): Proje açıklaması.
+### Öndə Gələn Layihələrim
+- [Layihə 1](https://github.com/ferid004/21-gunluk.git): E-commerce həm front həmdə bacend .
 
-### İletişim
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://linkedin.com/in/kullaniciadiniz)
-[![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter)](https://twitter.com/kullaniciadiniz)
-[![E-posta](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail)](mailto:email@ornek.com)
+
+### Əlaqə
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/mynetwork/)
+[![İnstagram](https://img.shields.io/badge/-İnstagram-333333?style=flat&logo=İnstagram)](https://www.instagram.com/ferid_aqa/)
+[![E-poçt](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail)](mailto:feridcodee@gmail.com)
