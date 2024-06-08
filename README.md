@@ -27,7 +27,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 ### GitHub Statistikalərim
-![GitHub Statistikalərim](https://github-readme-stats.vercel.app/api?username=kullaniciadiniz&show_icons=true&theme=dark)
+![GitHub Statistikalərim](https://github-readme-stats.vercel.app/api?username=ferid004&show_icons=true&theme=dark)
 
 ### Öndə Gələn Layihələrim
 - [Layihə 1](https://github.com/ferid004/21-gunluk.git): E-commerce həm front həmdə bacend .
