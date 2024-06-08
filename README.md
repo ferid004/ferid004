@@ -9,7 +9,7 @@
 - 🌱 Hal-hazırda öyrənirəm: Node.js 
 - 📫 Mənimlə əlaqə: feridcodee@gmail.com
 
-![Banner]([https://example.com/banner.jpg](https://www.freecodecamp.org/news/content/images/2022/03/photo-1619410283995-43d9134e7656.jpeg))
+![Banner](https://www.freecodecamp.org/news/content/images/2022/03/photo-1619410283995-43d9134e7656.jpeg)
 
 ### İstifadə Etdiyim Texnologiyalar
 
