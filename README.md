@@ -1,23 +1,40 @@
-# Merhaba, Ben Frontendci! 👋
+# Merhaba, Ben [Adınız] 👋
 
-Merhaba! Ben [Adınız], ön uç geliştirme konularında uzmanlaşmış bir geliştiriciyim. Modern web teknolojileri kullanarak kullanıcı dostu ve etkileyici arayüzler oluşturuyorum.
+## Hakkımda
+- 📚 Şu anda [eğitim seviyesi veya okul]
+- 💻 Full Stack Developer (Frontend ağırlıklı)
+- 🛠️ Kullandığım Teknolojiler: 
+  - Frontend: HTML, CSS, SCSS, JavaScript, React, Next.js
+  - Backend: Node.js, Express.js, MongoDB
+- 🌱 Şu anda öğreniyorum: [Öğrendiğiniz yeni teknolojiler veya konular]
+- 💼 Çalıştığım yer: [Şirket adı veya freelancer olarak çalışıyorsanız belirtin]
+- 📫 Bana ulaşın: [E-posta adresiniz]
 
-## 🌐 Sosyal Medya ve İletişim
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/kullaniciadi)
-[![Twitter](https://img.shields.io/badge/Twitter-blue)](https://twitter.com/kullaniciadi)
-[![Instagram](https://img.shields.io/badge/Instagram-red)](https://instagram.com/kullaniciadi)
+![Banner](https://example.com/banner.jpg)
 
-## 🚀 Öne Çıkan Projelerim
-- [Proje 1](https://github.com/kullaniciadi/proje1): Bu proje ile...
-- [Proje 2](https://github.com/kullaniciadi/proje2): Bu proje sayesinde...
+### Kullandığım Teknolojiler
 
-## 🛠️ Kullandığım Teknolojiler
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+#### Frontend
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)
+![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=sass&logoColor=CC6699)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 
-## 📈 GitHub İstatistikleri
-![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=kullaniciadi&show_icons=true)
-![Ziyaretçi Sayısı](https://visitor-badge.glitch.me/badge?page_id=kullaniciadi.kullaniciadi)
+#### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
+### GitHub İstatistiklerim
+![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=kullaniciadiniz&show_icons=true&theme=dark)
+
+### Öne Çıkan Projelerim
+- [Proje 1](https://github.com/kullaniciadiniz/proje1): Proje açıklaması.
+- [Proje 2](https://github.com/kullaniciadiniz/proje2): Proje açıklaması.
+
+### İletişim
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://linkedin.com/in/kullaniciadiniz)
+[![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter)](https://twitter.com/kullaniciadiniz)
+[![E-posta](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail)](mailto:email@ornek.com)
